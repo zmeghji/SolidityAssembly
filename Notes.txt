@@ -1,0 +1,3 @@
+- No types in solidity assembly 
+- Assembly just knows about memory slots and op codes 
+- Can't use normal arithmetic operators like + (have to use op codes like "add")
